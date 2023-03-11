@@ -15,12 +15,12 @@
 }
 .main{
     background-color: rgb(115, 239, 115);
-    height: 35vh;
+    /* height: 35vh; */
 }
-.main h2{
-    top: 50%;
-    right: 50%;
-    /* transform: translate(-50%,-50%); */
+.heading{
+   text-align: center;
+   padding: 8%;
+   /* margin-top: 50px; */
 }
 
 .vlog{
